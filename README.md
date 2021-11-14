@@ -18,7 +18,7 @@ Built with-
 
 <table>
         <tr>
-           <td><img src = "https://github.com/Ishita03-Singh/Covi-Eye/blob/master/WhatsApp%20Image%202021-11-14%20at%205.40.45%20PM%20(4).jpeg"  width="250"></td>
+           <td><img src = "https://github.com/Ishita03-Singh/Covi-Eye/blob/master/WhatsApp%20Image%202021-11-14%20at%205.40.45%20PM%20(4).jpeg"  width="200" height="200"></td>
           <td><img src = "https://github.com/Ishita03-Singh/Covi-Eye/blob/master/WhatsApp%20Image%202021-11-14%20at%205.40.45%20PM%20(2).jpeg"  width="250"></td>
           <td><img src = "https://github.com/Ishita03-Singh/Covi-Eye/blob/master/WhatsApp%20Image%202021-11-14%20at%205.40.45%20PM%20(3).jpeg"  width="250"></td>
           <td><img src = "https://github.com/Ishita03-Singh/Covi-Eye/blob/master/WhatsApp%20Image%202021-11-14%20at%205.40.45%20PM%20(1).jpeg"  width="250"></td>
